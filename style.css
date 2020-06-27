@@ -26,6 +26,7 @@ body .scene_titan .eyes .eye--right.eye, body .scene_saturn__face .face_clip .ey
 
 body {
   background: #181743;
+  overflow: hidden;
 }
 body .scene {
   -webkit-perspective: 2600px;
